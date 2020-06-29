@@ -34,7 +34,7 @@ JAVA 기반의 한국 영화 박스오피스 1~10위까지의 정보를 파싱 �
   - [ReplyDTO]() : 네이버, 다음에서 영화 댓글 수집 후 MongoDB에 저장할 때 사용하는 DTO
 
 ### 6.pom.xml
-  -[pom.xml]() :  Maven에서 build와 Library 설정하는 장소
+  - [pom.xml]() :  Maven에서 build와 Library 설정하는 장소
 
 
 ## :speech_balloon:How to use?
