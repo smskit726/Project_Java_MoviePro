@@ -39,8 +39,8 @@ JAVA 기반의 한국 영화 박스오피스 1~10위까지의 정보를 파싱 �
 
 ## :speech_balloon:How to use?
 
-1. BoxOfficeParser에서 발급받은 key를 교체한다.
-2. ReplyDAO에서 MongoDB를 세팅한다. (Connect, DB, Collection 등)
-3. 메인 프로그램을 실행한다
-4. 1~10 위 중 원하는 영화를 선택한다. → 1~10의 숫자를 입력
-5. Run the program!
+  - 1. BoxOfficeParser에서 발급받은 key를 교체한다.
+  - 2. ReplyDAO에서 MongoDB를 세팅한다. (Connect, DB, Collection 등)
+  - 3. 메인 프로그램을 실행한다
+  - 4. 1~10위 중 원하는 영화를 선택한다 → 1~10 사이의 숫자를 선택
+  - 5. Run the program!
